@@ -15,5 +15,5 @@
 
 ### Connect with me:
 
-- [<img align="left" alt="Steam.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />https://steamcommunity.com/id/Dragon-R6/]
+- [<img align="left" alt="Steam.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />https://steamcommunity.com/id/Dragon-R6/
 
